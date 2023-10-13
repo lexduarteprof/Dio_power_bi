@@ -9,3 +9,9 @@ professora Juliana Mascarenhas.
 
 ![Tela2](/Desafio/Tela2.jpg)
 
+## Desafio de Projeto com utilização do Azure
+
+O projeto se encontra na pasta "DesafioAzure", e foi criado com base no curso ministrado pela professora Juliana Mascarenhas.
+
+![Tela3](/Desafio/Tela3.jpg)
+![Tela4](Desafio/Tela4.jpg)
